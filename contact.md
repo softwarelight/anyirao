@@ -9,11 +9,11 @@ permalink: /contact/
         <ul class="contact-ul">
             <li class="contact-li">
                 <label class="contact-label" for="name">Name:</label>
-                <input type="text" placeholder="Your name" id="name" class="contact-input" name="name" tabindex="1"/>
+                <input type="text" placeholder="Your name" id="Anyi" class="contact-input" name="name" tabindex="1"/>
             </li>
             <li class="contact-li">
                 <label class="contact-label" for="email">Email:</label>
-                <input type="email" placeholder="Your email" id="email" class="contact-input" name="email" tabindex="2"/>
+                <input type="email" placeholder="Your email" id="454825937@qq.com" class="contact-input" name="email" tabindex="2"/>
             </li>
             <li class="contact-li">
                 <label class="contact-label" for="message">Message:</label>
