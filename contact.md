@@ -9,7 +9,7 @@ permalink: /contact/
         <ul class="contact-ul">
             <li class="contact-li">
                 <label class="contact-label" for="name">Name:</label>
-                <input type="text" placeholder="Your name Anyi" id="Anyi Rao" class="contact-input" name="name Anyi" tabindex="1"/>
+                <input type="text" placeholder="Your name" id="name" class="contact-input" name="name" tabindex="1"/>
             </li>
             <li class="contact-li">
                 <label class="contact-label" for="email">Email:</label>
