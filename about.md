@@ -8,6 +8,6 @@ permalink: /about/
 Here is Anyi's blog! Welcome!
 
 
-I am from: [**Nanjing University ESE**](http://ese.nju.edu.cn/)
+I am from [**Nanjing University School of Electronic Science and Engineering**](http://ese.nju.edu.cn/)
 
 
