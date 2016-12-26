@@ -9,7 +9,7 @@
 title: Anyi Rao
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Thunder is a lightning fast responsive theme based on default Jekyll theme. It is minimal and free from JavaScript. It has a css file of size 5kb. 
+  Developed by Anyi
 url: "http://webjeda.com" # the base hostname & protocol for your site
 
 baseurl: '/thunder'
@@ -24,8 +24,8 @@ color-2: '#26B99A'
 
 # Author pictre 100x100 --> keep it inside img folder.
 author-image: 'author.jpg'
-author-name: 'John Doe' 
-author-about: 'John Doe should be described in a very few words!' 
+author-name: 'Anyi Rao'
+author-about: 'Anyi Rao should be described in a very few words!' 
 
 # Build settings
 markdown: kramdown
