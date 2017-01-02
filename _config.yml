@@ -10,7 +10,7 @@ title: Anyi Rao
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Developed by Anyi
-url: "http://webjeda.com" # the base hostname & protocol for your site
+url: "http://jiangzhijian.com" # the base hostname & protocol for your site
 
 baseurl: '/raoanyi'
 permalink: /:title/
@@ -25,7 +25,7 @@ color-2: '#F0C419'
 # Author pictre 100x100 --> keep it inside img folder.
 author-image: 'author.jpg'
 author-name: 'Anyi Rao'
-author-about: 'Anyi Rao should be described in a very few words!' 
+  author-about: 'Anyi Rao Come on!' 
 
 # Build settings
 markdown: kramdown
