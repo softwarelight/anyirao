@@ -7,10 +7,9 @@
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
+        {% endfor %}
         <a target="_blank" class="page-link" href="http://blog.webjeda.com/jekyll-themes/">Themes</a>
         <a class="page-link" href="https://github.com/sharu725/thunder">Project</a>    
-        {% endfor %}
-     
     </nav>
  
 {% include color-bar.html %}
