@@ -10,7 +10,7 @@ title: Anyi Rao
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Developed by Anyi
-url: "https://softwarelight.github.io/" # the base hostname & protocol for your site
+url: "https://softwarelight.github.io/raoanyi" # the base hostname & protocol for your site
 
 baseurl: '/raoanyi'
 permalink: /:title/
