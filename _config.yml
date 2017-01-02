@@ -8,7 +8,7 @@
 # Site settings
 title: Anyi Rao
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
+# description: > # this means to ignore newlines until "baseurl:"
   
 url: "https://softwarelight.github.io/raoanyi" # the base hostname & protocol for your site
 
