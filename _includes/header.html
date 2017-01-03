@@ -5,12 +5,8 @@
     <nav class="site-nav">
         {% for my_page in site.pages %}
           {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
           <a class="ftheader text" href="index.html">Anyi</a>  
+          <span class="ftsubheader text"><a href="#research">Research</a></span>
           <span class="ftsubheader text"><a href="#bio">Bio</a></span>
           {% endif %}
         {% endfor %}
