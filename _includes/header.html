@@ -10,6 +10,9 @@
         {% endfor %}
         {% for my_page in site.pages %}
           {% if my_page.title %}
+          <a class="ftheader text"><a href="index.html">Anyi</a>  
+          <span class="ftsubheader text"><a href="#bio">Bio</a></span>
+      </a>
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
