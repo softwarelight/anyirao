@@ -43,6 +43,16 @@ body{
         }
 }
 
+.brief {
+    margin: 0 auto;
+    max-width: 100%;
+    padding: $spacing-unit 0;
+    
+      @include media-query($on-palm){
+       margin-left: -10;
+        }
+}
+
 
 .post-list {
     margin-left: 0;
