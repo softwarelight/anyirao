@@ -3,7 +3,7 @@
 }
 
 body{
-        max-width: 90%;
+        max-width: 75%;
         margin: 0 auto;
     
     @include media-query($on-palm){
@@ -35,11 +35,11 @@ body{
  */
 .page-content {
     margin: 0 auto;
-    max-width: 65%;
+    max-width: 70%;
     padding: $spacing-unit 0;
     
       @include media-query($on-palm){
-        max-width: 100%;
+        max-width: 70%;
         }
 }
 
