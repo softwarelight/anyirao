@@ -47,10 +47,6 @@ body{
     margin: 0 auto;
     max-width: 100%;
     padding: $spacing-unit 0;
-    
-      @include media-query($on-palm){
-       max-width: 80%;
-        }
 }
 
 .img { 
