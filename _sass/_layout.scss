@@ -25,10 +25,19 @@ body{
 
 
 .site-nav {
+    width:80px;/*设置元素宽为80px*/
+height:28px;/*设置高度为28px*/
+line-height:28px;/*设置行距为28px，让文字在每行的中间位置*/
+background:red;/*设置元素的背景为红色*/
+color:#FFF;/*文字颜色是白色*/
+margin:5px 10px;
+font-size:12px;/*用12号字*/
+text-align:center;/*让文本居中*/
+text-decoration:none; /*去掉下划线*/
     //line-height: 26px;
     display:block;
     float:right;
-    padding:5px 40px;//horizon vertical 
+    //padding:5px 40px;//horizon vertical 
 }
 
 /**
