@@ -40,7 +40,7 @@ body{
  */
 .page-content {
     margin: 0 auto;
-    max-width: 70%;
+    max-width: 75%;
     padding: $spacing-unit 0;
     
       @include media-query($on-palm){
