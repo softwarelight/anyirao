@@ -15,8 +15,8 @@ url: "https://softwarelight.github.io/raoanyi" # the base hostname & protocol fo
 baseurl: '/raoanyi'
 permalink: /:title/
 
-analytics: UA-83979019-1
-disqus-shortname: webjeda-demo
+analytics: 
+disqus-shortname:
 
 #color scheme
 color-1: '#E64C3C'
