@@ -57,6 +57,9 @@ body{
 .header-img { 
    display:block;
    margin: 0 50px 0 0 ;
+     @include media-query($on-palm){
+        height: auto;
+        }
 }
 
 .header-text{
