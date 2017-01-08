@@ -25,11 +25,12 @@ body{
 
 
 .site-nav {
+    width:80px;/*设置元素宽为80px*/
+    height:28px;/*设置高度为28px*/
     line-height: 26px;
     display: block;
     float:right;
-    padding:5px 40px;//horizon vertical 
-    margin:5px
+    //padding:5px 40px;//horizon vertical 
 }
 
 /**
