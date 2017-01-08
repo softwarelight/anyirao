@@ -25,13 +25,13 @@ body{
 
 
 .site-nav {
-    font-size:2em;
+    font-size:1.75em;
     //line-height: 26px;
     display:block;
     float:right;
     padding:10px 0px;//horizon to the right
      @include media-query($on-palm){
-        font-size:1.25em;;
+        font-size:1.10em;;
         }
 }
 
