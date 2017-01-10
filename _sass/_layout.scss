@@ -57,7 +57,7 @@ body{
    display:block;
    margin: 20px 50px 0 0 ;//1st is top, 2nd is right
      @include media-query($on-palm){
-        margin: 10px; 
+        margin: 0 auto; 
         height: auto;
         }
 }
