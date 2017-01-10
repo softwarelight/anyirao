@@ -10,9 +10,9 @@ title: Anyi Rao
 email: your-email@domain.com
 # description: > # this means to ignore newlines until "baseurl:"
   
-url: "https://softwarelight.github.io/raoanyi" # the base hostname & protocol for your site
+url: "https://softwarelight.github.io/" # the base hostname & protocol for your site
 
-baseurl: '/raoanyi'
+baseurl: 
 permalink: /:title/
 
 analytics: 
@@ -23,7 +23,7 @@ color-1: '#E64C3C'
 color-2: '#F0C419' 
 
 # Author pictre 100x100 --> keep it inside img folder.
-author-image: 'xinyi.jpg'
+author-image: 
 author-name: 'Anyi Rao'
 author-about: 'Enjoy life!' 
 
