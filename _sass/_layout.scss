@@ -3,7 +3,7 @@
 }
 
 body{
-        max-width: 70%;
+        max-width: 75%;
         margin: 0 auto;
     
     @include media-query($on-palm){
@@ -17,17 +17,21 @@ body{
     // Positioning context for the mobile navigation icon
     position: relative;
      @include media-query($on-palm){
-        margin-top: 0.625em;
-        }
-    
+        margin-top: 0.625em;        }
+     
     
 }
 
 
 .site-nav {
-    line-height: 56px;
-    display: inline-block;
-
+    font-size:1.2em;
+    //line-height: 26px;
+    display:inline-block;
+    float:right;
+    padding:15px 0px;//horizon to the right
+     @include media-query($on-palm){
+        font-size:1.10em;;
+        }
 }
 
 /**
@@ -35,14 +39,31 @@ body{
  */
 .page-content {
     margin: 0 auto;
-    max-width: 65%;
+    max-width: 75%;
     padding: $spacing-unit 0;
     
       @include media-query($on-palm){
-        max-width: 100%;
+        max-width: 85%;
         }
 }
 
+.content heading anchor {
+    margin: 0 auto;
+    max-width: 100%;
+    padding: $spacing-unit 0;
+}
+
+.header-img { 
+   display:block;
+   margin: 20px 50px 0 0 ;//1st is top, 2nd is right
+     @include media-query($on-palm){
+        height: auto;
+        }
+}
+
+.header-text{
+   display:block;
+}
 
 .post-list {
     margin-left: 0;
@@ -146,20 +167,20 @@ table {
   width: 100%;
   padding: 0; }
   table tr {
-    border-top: 1px solid $grey-color;
+    border-top: 1px none;
     background-color: white;
     margin: 0;
     padding: 0; }
     table tr:nth-child(2n) {
-      background-color: #f8f8f8; }
+      background-color: white; }
     table tr th {
       font-weight: bold;
-      border: 1px solid $grey-color;
+      border: 1px none;
       text-align: left;
       margin: 0;
       padding: 6px 13px; }
     table tr td {
-      border: 1px solid $grey-color;
+      border: 1px none;
       text-align: left;
       margin: 0;
       padding: 6px 13px; }
