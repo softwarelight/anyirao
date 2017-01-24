@@ -37,23 +37,41 @@ layout: default
     
    <div class="content anchor" id="research">  	      
           <h3>Research</h3>     
-            <p><span style="font-weight: bold;">Single-Photon Detector, main contributor</span> <br>
-		Oct.2014-Dec.2015 &nbsp  Research Institute of Superconductor Electronics (RISE), Nanjing University <br>
-	    Designed a 64 road low-noise pre-amplifier using a symmetric structure. 
-            Drew 8 layers PCB; Altium. 
-            Reduced noise by 100 times.
+	   <p><span style="font-weight: bold;">3D Reconstruction Using (Light Detection And Ranging) Lidar and Camera</span> <br>
+		   Aug.2016-present &nbsp  Visual Sensing and Graphics Lab (VISG Lab), Nanjing University <br> 
+	   Collected point cloud datasets for indoor 3D scene reconstruction. 
+           Implemented low drift odometry and mapping algorithms from recent papers to improve accuracy; Python. 
+           Calibrated and dyed reconstruction results by applying camera information. 
           
             <p><span style="font-weight: bold;">Road Car Flow and Its Effect on Roads, leader</span> <br>
 		Aug.2016-Sep.2016    <br>
 	    Constructed three models to depict road circumstances and two model to predict car motion; Matlab, C. 
             Wrote a report to ministry of transportation. 
-                 
-           <p><span style="font-weight: bold;">3D Reconstruction Using (Light Detection And Ranging) Lidar and Camera</span> <br>
-		   Aug.2016-present &nbsp  Visual Sensing and Graphics Lab (VISG Lab), Nanjing University <br> 
-	   Collected point cloud datasets for indoor 3D scene reconstruction. 
-           Implemented low drift odometry and mapping algorithms from recent papers to improve accuracy; Python. 
-           Calibrated and dyed reconstruction results by applying camera information.   
-      </div> 
+            		    
+	     <p><span style="font-weight: bold;">Single-Photon Detector, main contributor</span> <br>
+		Oct.2014-Dec.2015 &nbsp  Research Institute of Superconductor Electronics (RISE), Nanjing University <br>
+	    Designed a 64 road low-noise pre-amplifier using a symmetric structure. 
+            Drew 8 layers PCB; Altium. 
+            Reduced noise by 100 times.
+            
+	<div class="content" >
+	   <h3>Course Design</h3>
+		 <p><span style="font-weight: bold;">Tetris Game; C++ </span> <br>
+                I began with shape management. I created a four-dimensional array of 7x4x4x4 to store the 7 possible shapes, 
+		each with 4 possible rotations, on a 4×4 grid which is essentially the bounding box for each shape. 
+		I created a class TetrisShape for this.<br>
+                Then, I dealt with piece movement and edge collisions. To make the pieces move I updated them and moved them down one row each time a fixed time interval expires. 
+	        In real Tetris, this interval is based on what level of the game you are on, and that is exactly what we do here. 
+		So first I've introduced a Level variable. And I made a place to store the contents of the bucket (game board),
+		so when a piece reaches the bottom it won't  vanish. <br>
+                Collision detection was the next thing I need to handle with. I was a bit cheeky and just disallowed rotation if it collided with another piece on the board;
+		in reality the piece might get shifted a little bit but this is for all intents and purposes an unusual edge case scenario, 
+		and real Tetris also disallows the majority of such rotations. Next up I detected when lines have been filled, removed them, 
+		kept and displayed score, and handled the situation where the grid gets full. Finally, scores, level, line clearing,
+		grid moving when line is cleared, and bonus scores for multiple lines added. 
+		
+	   </div>
+	   
    </div>
     
     
