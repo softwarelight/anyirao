@@ -66,6 +66,7 @@ layout: default
 		Aug.2016-Sep.2016    <br>
 	    Constructed three models to depict road circumstances and two models to predict car motion; Matlab, C.  <br>
             Wrote a report to ministry of transportation. 
+		    <span class="tag"><a href="papers/mcm.pdf"> [Paper]</a></span>
             		    
 	     <p><span style="font-weight: bold;">Single-Photon Detector, main contributor</span> <br>
 		Oct.2014-Dec.2015 &nbsp  Research Institute of Superconductor Electronics (RISE), Nanjing University <br>
@@ -76,16 +77,12 @@ layout: default
 	<div class="content" >
 	   <h3>Course Design</h3>
 		 <p><span style="font-weight: bold;">Tetris Game; C++ </span> <br>
-                I began with shape management. I created a four-dimensional array of 7x4x4x4 to store the 7 possible shapes, 
-		each with 4 possible rotations, on a 4×4 grid which is essentially the bounding box for each shape. 
-		I created a class TetrisShape for this.<br>
-                Then, I dealt with piece movement and edge collisions. To make the pieces move I updated them and moved them down one row each time a fixed time interval expires. 
+                I began with shape management and piece movement and edge collisions. To make the pieces move I updated them and moved them down one row each time a fixed time interval expires. 
 	        In real Tetris, this interval is based on what level of the game you are on, and that is exactly what we do here. 
 		So first I've introduced a Level variable. And I made a place to store the contents of the bucket (game board),
-		so when a piece reaches the bottom it won't  vanish. <br>
-                Collision detection was the next thing I need to handle with. I was a bit cheeky and just disallowed rotation if it collided with another piece on the board;
-		in reality the piece might get shifted a little bit but this is for all intents and purposes an unusual edge case scenario, 
-		and real Tetris also disallows the majority of such rotations. Next up I detected when lines have been filled, removed them, 
+		When a piece reaches the bottom it won't  vanish. <br>
+                Collision detection was the next thing I need to handle with. 
+		I detected when lines have been filled, removed them, 
 		kept and displayed score, and handled the situation where the grid gets full. Finally, scores, level, line clearing,
 		grid moving when line is cleared, and bonus scores for multiple lines added. 
 			 
