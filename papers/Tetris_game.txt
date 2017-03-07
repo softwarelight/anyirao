@@ -4,7 +4,7 @@
 
 
 1. I began with shape management. I created a four-dimensional array of 7x4x4x4 to store 
-the 7 possible shapes, each with 4 possible rotations, on a 4¡Á4 grid which is 
+the 7 possible shapes, each with 4 possible rotations, on a 4x4 grid which is 
 essentially the bounding box for each shape.I created a class TetrisShape for this.
 
 2. Then, I dealt with piece movement and edge collisions. To make the pieces move I 
