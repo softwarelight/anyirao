@@ -1,0 +1,22 @@
++---------------------------------------------------------------------------------------+
+|	Cluster sky objects; Python	designed and implemented by Anyi Rao		|
++---------------------------------------------------------------------------------------+
+
+
+Cluster a catalog of 2 million sky objects into similar objects, e.g., galaxies, nearby 
+stars, quasars, etc. These sky objects have 7 features. 
+
+Use Euclidean cluster algorithm. Each cluster has a well defined centroid.
+
+1.Assumes Euclidean space and start by picking k, the number of clusters. 
+
+2.Initialize clusters by picking one point per cluster. 
+
+3.Then for each point, place it in the cluster whose current centroid is the nearest, 
+and update the centroid of the cluster. 
+
+4.After all points are assigned, fix the centroids of the k clusters. Reassign all points 
+to their closest centroid. (Sometimes moves points between clusters.)
+
+Author: Anyi Rao
+Student ID: 141180092
