@@ -4,15 +4,16 @@ title: More online courses
 permalink: /more/
 ---
 
-# Stanford
+
+![Stanford]({{site.baseurl}}/images/moreStanford.gif)
 * Andrew Ng. CS229: Machine Learning. Stanford.
 * Andrew Ng et al. UFLDL: Deep Learning Tutorial. Stanford.
 * Silvio Savarese. CS231A: Computer Vision: from 3D reconstruction to recognition. Stanford.
 * Fei-Fei Li, Andrej Karpathy, and Justin Johnson. CS231n: Convolutional Neural Networks for Visual Recognition. Stanford.
 
-# MIT 
+
 ![MIT]({{site.baseurl}}/images/moreMIT.png)
-({{site.baseurl}}/images/moreMIT.jpg)
+
 
 * David Jerison. 18.01: Single Variable Calculus. MIT. 
 * Denis Auroux. 18.02: Multivariable Calculus. MIT. 
