@@ -25,13 +25,15 @@ permalink: /more/
 * Sarina Canelake. 6.189: A Gentle Introduction to Programming Using Python. MIT.
 * John Guttag. 6.00: Introduction to Computer Science and Programming. MIT.
 
-# Coursera
+
+![Coursera]({{site.baseurl}}/images/moreCoursera.png)
 
 * Andrew Ng. Machine Learning. Stanford. [Grade: 100%]
 * Hsuan-Tien Lin. Machine Learning Techniques. National Taiwan University. [Grade: 96.0%] 
 * Speaking English Professionally: In Person, Online & On the phone. GIT 
 * Michael Fitzpatrick.  Introduction to Programming with MATLAB. Vanderbilt University. [Grade: 100%]
 
-# edX
+![edX]({{site.baseurl}}/images/moreedX.jpg)
+
 * Entrepreneurship 101: Who are your customer? MIT
 * Entrepreneurship 102: What can you do for your customer? MIT
