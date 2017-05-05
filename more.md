@@ -12,7 +12,7 @@ permalink: /more/
 * Fei-Fei Li, Andrej Karpathy, and Justin Johnson. CS231n: Convolutional Neural Networks for Visual Recognition. Stanford.
 
 
-![MIT]({{site.baseurl}}/images/moreMIT.png =100*100)
+![MIT]({{site.baseurl}}/images/moreMIT.png)
 
 
 * David Jerison. 18.01: Single Variable Calculus. MIT. 
@@ -33,7 +33,7 @@ permalink: /more/
 * Speaking English Professionally: In Person, Online & On the phone. GIT 
 * Michael Fitzpatrick.  Introduction to Programming with MATLAB. Vanderbilt University. [Grade: 100%]
 
-![edX]({{site.baseurl}}/images/moreedX.jpg)
+![edX]({{site.baseurl}}/images/moreedX.png)
 
 * Entrepreneurship 101: Who are your customer? MIT
 * Entrepreneurship 102: What can you do for your customer? MIT
