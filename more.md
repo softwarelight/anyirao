@@ -1,6 +1,6 @@
 ---
 layout: page
-title: More online courses
+title: The whole online courses I took
 permalink: /more/
 ---
 
