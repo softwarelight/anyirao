@@ -12,7 +12,7 @@ permalink: /more/
 * Fei-Fei Li, Andrej Karpathy, and Justin Johnson. CS231n: Convolutional Neural Networks for Visual Recognition. Stanford.
 
 
-![MIT]({{site.baseurl}}/images/moreMIT.png)
+![MIT]({{site.baseurl}}/images/moreMIT.png =100*100)
 
 
 * David Jerison. 18.01: Single Variable Calculus. MIT. 
