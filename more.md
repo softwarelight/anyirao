@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: More online courses
+permalink: /more/
 ---
 
 # Stanford
