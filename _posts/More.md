@@ -1,0 +1,35 @@
+---
+layout: post
+title: More online courses
+---
+
+# Stanford
+* Andrew Ng. CS229: Machine Learning. Stanford.
+* Andrew Ng et al. UFLDL: Deep Learning Tutorial. Stanford.
+* Silvio Savarese. CS231A: Computer Vision: from 3D reconstruction to recognition. Stanford.
+* Fei-Fei Li, Andrej Karpathy, and Justin Johnson. CS231n: Convolutional Neural Networks for Visual Recognition. Stanford.
+
+# MIT 
+![MIT]({{site.baseurl}}/images/moreMIT.png)
+({{site.baseurl}}/images/moreMIT.jpg)
+
+* David Jerison. 18.01: Single Variable Calculus. MIT. 
+* Denis Auroux. 18.02: Multivariable Calculus. MIT. 
+* Gilbert Strang. 18.06: Linear Algebra. MIT. 2011
+* Dennis Freeman. 6.01: Introduction to Electrical Engineering and Computer Science I. MIT. 
+* John Tsitsiklis & Patrick Jaillet. 6.041: Introduction to Probability - The Science of Uncertainty. MIT.
+* Albert Meyer and Adam Chlipala. 6.042: Mathematics for Computer Science. MIT. 
+* Erik Demaine and Srinivas Devadas. 6.006: Introduction to Algorithms. MIT. 
+* Sarina Canelake. 6.189: A Gentle Introduction to Programming Using Python. MIT.
+* John Guttag. 6.00: Introduction to Computer Science and Programming. MIT.
+
+# Coursera
+
+* Andrew Ng. Machine Learning. Stanford. [Grade: 100%]
+* Hsuan-Tien Lin. Machine Learning Techniques. National Taiwan University. [Grade: 96.0%] 
+* Speaking English Professionally: In Person, Online & On the phone. GIT 
+* Michael Fitzpatrick.  Introduction to Programming with MATLAB. Vanderbilt University. [Grade: 100%]
+
+# edX
+* Entrepreneurship 101: Who are your customer? MIT
+* Entrepreneurship 102: What can you do for your customer? MIT
