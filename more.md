@@ -31,8 +31,9 @@ permalink: /more/
 
 * Andrew Ng. Machine Learning. Stanford. [Grade: 100%]
 * Hsuan-Tien Lin. Machine Learning Techniques. National Taiwan University. [Grade: 96.0%] 
-* Michael Fitzpatrick.  Introduction to Programming with MATLAB. Vanderbilt University.
+* Michael Fitzpatrick. Introduction to Programming with MATLAB. Vanderbilt University.
 * Charles Severance. Python Data Structures. University of Michigan.
+* Charles Severance. Using Database with Python. University of Michigan.
 * Speaking English Professionally: In Person, Online & On the phone. GIT 
 
 ![edX]({{site.baseurl}}/images/moreedX.png)
