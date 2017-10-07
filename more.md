@@ -7,10 +7,11 @@ permalink: /more/
 
 ![Stanford]({{site.baseurl}}/images/moreStanford.gif)
 * Andrew Ng. CS229: Machine Learning. Stanford.
-* Andrew Ng et al. UFLDL: Deep Learning Tutorial. Stanford.
+* Andrew Ng et al. UFLDL: Deep Learning Tutorial. Stanford. [[Proposal]]({{site.baseurl}}/papers/ML_Proposal.pdf)
 * Silvio Savarese. CS231A: Computer Vision: from 3D reconstruction to recognition. Stanford.
 * Fei-Fei Li, Andrej Karpathy, and Justin Johnson. CS231N: Convolutional Neural Networks for Visual Recognition. Stanford.
-
+* Daphne Koller. CS228: Probabilistic Graphical Models. Stanford.
+* Chris Manning & Richard Socher. CS224N: Natural Language Processing with Deep Learning. Stanford.
 
 ![MIT]({{site.baseurl}}/images/moreMIT.png)
 
@@ -30,7 +31,7 @@ permalink: /more/
 ![Coursera]({{site.baseurl}}/images/moreCoursera.png)
 
 * Andrew Ng. Machine Learning. Stanford. [Grade: 100%]
-* Hsuan-Tien Lin. Machine Learning Techniques. National Taiwan University. [Grade: 96.0%] 
+* Hsuan-Tien Lin. Machine Learning Techniques. National Taiwan University. [Grade: 100%] 
 * Michael Fitzpatrick. Introduction to Programming with MATLAB. Vanderbilt University.
 * Charles Severance. Python Data Structures. University of Michigan.
 * Charles Severance. Using Database with Python. University of Michigan.
