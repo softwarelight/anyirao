@@ -7,3 +7,4 @@
 ## How to set web
 ### ``_sass/_layout.scss`` is for changing web occupation percent 
 ### ``_includes/header.html`` is for changing web navigation
+### ``_includes/head.html`` is for changing web icon ``<link rel="my icon" href="nju.ico" />``
