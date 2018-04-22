@@ -7,7 +7,7 @@ body{
         margin: 0 auto;
     
     @include media-query($on-palm){
-        max-width: 95%;
+        max-width: 96%;
         }
 }
 
@@ -43,7 +43,7 @@ body{
     padding: $spacing-unit 0;
     
       @include media-query($on-palm){
-        max-width: 90%;
+        max-width: 93%;
         }
 }
 
