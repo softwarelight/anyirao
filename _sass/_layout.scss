@@ -163,6 +163,12 @@ body{
 
 //table
 table {
+  margin: 5px 0;
+  border-collapse: collapse;
+  width: 100%;
+  padding: 0; }
+/*
+table {
   margin: 15px 0;
   border-collapse: collapse;
   width: 100%;
@@ -189,7 +195,7 @@ table {
       margin: 0; }
     table tr th :last-child, table tr td :last-child {
       margin: 0; }
-
+*/
 
 // Adding 'Contents' headline to the TOC
 #markdown-toc::before {
